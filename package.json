@@ -5,7 +5,6 @@
   "author": "M Gilang Januar <mgilangjanuar@teledriveapp.com>",
   "license": "MIT",
   "private": true,
-  "engines": {
   "node": "18.0.0"
   },
 
